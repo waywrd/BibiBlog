@@ -1,2 +1,1 @@
 # BibiBlog
-Blog for Her
